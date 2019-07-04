@@ -10,10 +10,6 @@ Bulma is a free, open source CSS framework based on Flexbox and used by more tha
 ## Features 
 Karl's Travel Guide is built around a community of locals, showing off the cool restaurants, places to see and be seen in their community. A focus on local business would allow for a sense of community among users and the small business community. It has been shown via studies from media outlets such as the New York Post and USA Today that young people today love traveling and love supporting locally run businesses, even if they cost more for the same goods at a big chain establishment. Karl's Travel Guide is perfect for the traveler who prefers local, small businesses. 
 
-
-## Code Example
-
-
 ## Installation
 No outside software is needed to use Karl's Travel Guide. Our application is web based and can be accessed by anybody at any time. 
 
